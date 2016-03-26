@@ -1,4 +1,4 @@
-﻿?xml version="1.0" encoding="UTF-8" standalone="no"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
@@ -140,11 +140,23 @@
          y="397.38321"
          x="205.04567"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;opacity:0.73893803619999998;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#1fb2e1;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:HGPSoeiKakupoptai;-inkscape-font-specification:HGPSoeiKakupoptai;stroke-opacity:1"
-         xml:space="preserve"><tspan
+         xml:space="preserve">
+      <tspan
            y="397.38321"
            x="205.04567"
            id="tspan3848"
-           sodipodi:role="line">東海道新幹線とリニア新京都駅</tbreak>リニアを京都へ</tspan></text>
+           sodipodi:role="line">東海道新幹線</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3779"
+         y="450.38321"
+         x="205.04567"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;opacity:0.73893803619999998;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#1fb2e1;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:HGPSoeiKakupoptai;-inkscape-font-specification:HGPSoeiKakupoptai;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="450.38321"
+           x="205.04567"
+           id="tspan3848"
+           sodipodi:role="line">リニアを京都へ</tspan></text>
       <text
          sodipodi:linespacing="100%"
          id="text3783"
